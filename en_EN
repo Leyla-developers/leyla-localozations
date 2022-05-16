@@ -1,0 +1,11 @@
+{
+  "warn": {
+    "title": "(>-<)!!! {member.name} warned!",
+    "description": "**{member.name}** has been warned",
+    "its_you": "Why you trying warn yourself?",
+    "its_higher": "{member.name} higher than your rank"
+  },
+  "here_command_name": {
+    "other_arguments": "An example is shown above"
+  }
+}
